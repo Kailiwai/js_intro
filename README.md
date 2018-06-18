@@ -13,4 +13,4 @@
 4. Open the js-basics assignment in sublime and write your code in the `app.js` file.
 5. Run node in your terminal to test your code:
    - `$ cd js_intro`
-   - `node app.js` (don't forget to console.log your work)
+   - `node app.js` (don't forget to console.log your work)od
